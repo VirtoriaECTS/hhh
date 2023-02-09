@@ -1,0 +1,34 @@
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\bin\Debug\net6.0-windows\practica1.exe
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\bin\Debug\net6.0-windows\practica1.deps.json
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\bin\Debug\net6.0-windows\practica1.runtimeconfig.json
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\bin\Debug\net6.0-windows\practica1.dll
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\bin\Debug\net6.0-windows\practica1.pdb
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.Form1.resources
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.AssemblyInfo.cs
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.dll
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\refint\practica1.dll
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.pdb
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\practica1.genruntimeconfig.cache
+\\Mac\Home\Desktop\ПТПМ\practica1\practica1\obj\Debug\net6.0-windows\ref\practica1.dll
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\bin\Debug\net6.0-windows\practica1.exe
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\bin\Debug\net6.0-windows\practica1.deps.json
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\bin\Debug\net6.0-windows\practica1.runtimeconfig.json
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\bin\Debug\net6.0-windows\practica1.dll
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\bin\Debug\net6.0-windows\practica1.pdb
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.Form1.resources
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.AssemblyInfo.cs
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.dll
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\refint\practica1.dll
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.pdb
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\practica1.genruntimeconfig.cache
+\\Mac\Home\Desktop\Учебная практика\practica_grafic\practica1\obj\Debug\net6.0-windows\ref\practica1.dll
